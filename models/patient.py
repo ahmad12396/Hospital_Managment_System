@@ -7,3 +7,5 @@ CREATE TABLE patients (
     gender TEXT,
     blood_group TEXT
 );
+
+print("hello")
